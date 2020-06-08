@@ -50,8 +50,8 @@ make
 
 ## Run
 ```
-./pose_graph_g2o_lie_algbra
-./pose_graph_g2o_SE3
+./build/pose_graph_g2o_lie_algbra
+./build/pose_graph_g2o_SE3
 ```
 
 
